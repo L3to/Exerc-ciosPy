@@ -9,3 +9,4 @@ else:
     divisao = num1/num2
     resto =  num1%num2
     print("A soma dos números",num1, "e", num2, "é dada por", soma,",a multplicação dá", multi,",já a divisão daria", divisao,"e o resto da mesma", resto)
+
